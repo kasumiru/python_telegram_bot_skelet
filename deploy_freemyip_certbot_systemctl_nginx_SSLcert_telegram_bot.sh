@@ -26,7 +26,7 @@ app_port="8108"
 telegram_token="500000000:AAxxxxxxxxxxxxxxxxxxxxxxx"
 nginx_ssl_port="443"
 
-stemctl_bot_name="by_telegram_bot.service"
+stemctl_bot_name="my_telegram_bot.service"
 python_bot_filename="python_telegram_bot.py"
 python_bot_working_dir="/srv/tg/bot"
 mkdir -p ${python_bot_working_dir}
